@@ -1,0 +1,5 @@
+void crear_CRC(){
+    
+
+
+}
