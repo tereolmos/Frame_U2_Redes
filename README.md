@@ -1,0 +1,1 @@
+Este es un proyecto de la materia de Redes, en donde se crearán 7 funciones por separado para la elaboración de un frame 
